@@ -3,6 +3,10 @@ SVG Logos
 A collection of svg vector logos for developers.  
 [View All](http://svgporn.com)
 
+All logos were optimized (removed unnecessary paths/groups/defs, standardized, etc). Some were recreated from rastered images.
+
+*All logos appearing on the site are the property of their respective owners. Any rights not expressly granted herein are reserved.*
+
 ## Angular
 ![angular](http://gilbarbara.github.io/logos/angular-icon.svg)
 
@@ -36,6 +40,9 @@ A collection of svg vector logos for developers.
 
 ## BEM
 ![bem](http://gilbarbara.github.io/logos/bem.svg)
+
+## Blocs
+![blocs](http://gilbarbara.github.io/logos/blocs.svg)
 
 ## Bootstrap
 ![bootstrap](http://gilbarbara.github.io/logos/bootstrap.svg)
@@ -86,6 +93,9 @@ A collection of svg vector logos for developers.
 ## Compass
 ![compass](http://gilbarbara.github.io/logos/compass.svg)
 
+## coveralls
+![coveralls](http://gilbarbara.github.io/logos/coveralls.svg)
+
 ## Cross Browser Testing
 ![crossbrowsertesting](http://gilbarbara.github.io/logos/crossbrowsertesting.svg)
 
@@ -103,6 +113,9 @@ A collection of svg vector logos for developers.
 
 ## Docker
 ![docker](http://gilbarbara.github.io/logos/docker.svg)
+
+## Drupal
+![drupal](http://gilbarbara.github.io/logos/drupal.svg)
 
 ## Ember
 ![ember](http://gilbarbara.github.io/logos/ember.svg)
@@ -187,6 +200,12 @@ A collection of svg vector logos for developers.
 ## HTML5
 ![html-5](http://gilbarbara.github.io/logos/html-5.svg)
 
+## html5-boilerplate
+![html5-boilerplate](http://gilbarbara.github.io/logos/html5-boilerplate.svg)
+
+## invision
+![invision](http://gilbarbara.github.io/logos/invision.svg)
+
 ## io
 ![io](http://gilbarbara.github.io/logos/io.svg)
 
@@ -219,6 +238,9 @@ A collection of svg vector logos for developers.
 
 ## laravel
 ![laravel](http://gilbarbara.github.io/logos/laravel.svg)
+
+## leafjet
+![leafjet](http://gilbarbara.github.io/logos/leafjet.svg)
 
 ## less
 ![less](http://gilbarbara.github.io/logos/less.svg)
@@ -292,6 +314,12 @@ A collection of svg vector logos for developers.
 ## open graph
 ![open-graph](http://gilbarbara.github.io/logos/open-graph.svg)
 
+## openlayers
+![openlayers](http://gilbarbara.github.io/logos/openlayers.svg)
+
+## optimizely
+![optimizely](http://gilbarbara.github.io/logos/optimizely.svg)
+
 ## passport
 ![passport](http://gilbarbara.github.io/logos/passport.svg)
 
@@ -345,6 +373,9 @@ A collection of svg vector logos for developers.
 ## SASS
 ![sass](http://gilbarbara.github.io/logos/sass.svg)
 
+## Scala
+![scala](http://gilbarbara.github.io/logos/scala.svg)
+
 ## snap.svg
 ![snap.svg](http://gilbarbara.github.io/logos/snap-svg.svg)
 
@@ -362,6 +393,9 @@ A collection of svg vector logos for developers.
 
 ## swift
 ![swift](http://gilbarbara.github.io/logos/swift.svg)
+
+## traack
+![traack](http://gilbarbara.github.io/logos/traack.svg)
 
 ## travis
 ![travis](http://gilbarbara.github.io/logos/travis-ci.svg)
@@ -390,6 +424,9 @@ A collection of svg vector logos for developers.
 ![wordpress-icon](http://gilbarbara.github.io/logos/wordpress-icon.svg)
 
 ![wordpress](http://gilbarbara.github.io/logos/wordpress.svg)
+
+## ycombinator
+![ycombinator](http://gilbarbara.github.io/logos/ycombinator.svg)
 
 ## yeoman
 ![yeoman](http://gilbarbara.github.io/logos/yeoman.svg)
