@@ -6,15 +6,15 @@ SVG Logos
 The logos are optimized (removed duplicated paths / excessive groups / empty defs, linting, etc).
 Some were recreated from rastered images.
 
-*All logos appearing on the site are the property of their respective owners.*
-
 ## Tips for working with SVGs
-• Always convert borders to paths. They use a fixed size and behave strangely when resized.
+• Always convert borders to paths. They use a fixed size and behave strangely when resized.  
 • Join all the paths into one and use it as a background/mask. Or at least overlap your paths.
 
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
-Please add your requests in the issues preferably with links to the vector files.
+Please add your requests in the issues preferably with links to the vector files.  
+
+*All logos appearing on the site are the property of their respective owners.*
 
 ---
 
@@ -87,6 +87,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.browserstack.com/" target="_blank">BrowserStack</a>
 ![browserstack](http://gilbarbara.github.io/logos/browserstack.svg)
 
+## <a href="https://isocpp.org/" target="_blank">C++</a>
+![c++](http://gilbarbara.github.io/logos/c++.svg)
+
 ## <a href="http://capistranorb.com/" target="_blank">Capistrano</a>
 ![capistrano](http://gilbarbara.github.io/logos/capistrano.svg)
 
@@ -125,6 +128,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://compass-style.org/" target="_blank">Compass</a>
 ![compass](http://gilbarbara.github.io/logos/compass.svg)
 
+## <a href="https://github.com/componentjs/component" target="_blank">Component</a>
+![component](http://gilbarbara.github.io/logos/component.svg)
+
 ## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
 ![couchdb](http://gilbarbara.github.io/logos/couchdb.svg)
 
@@ -142,6 +148,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://d3js.org/" target="_blank">D3</a>
 ![d3](http://gilbarbara.github.io/logos/d3.svg)
+
+## <a href="https://www.dartlang.org/" target="_blank">Dart</a>
+![dart](http://gilbarbara.github.io/logos/dart.svg)
+
+## <a href="http://deliciousdb.com/" target="_blank">DeliciousDB</a>
+![deliciousdb](http://gilbarbara.github.io/logos/delicious-burger.svg)
 
 ## <a href="https://www.digitalocean.com/" target="_blank">Digital Ocean</a>
 ![digital-ocean](http://gilbarbara.github.io/logos/digital-ocean.svg)
@@ -397,10 +409,10 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://neo4j.com/" target="_blank">Neo4j</a>
 ![neo4j](http://gilbarbara.github.io/logos/neo4j.svg)
 
-## <a href="" target="_blank">Netbeans</a>
+## <a href="https://netbeans.org/" target="_blank">Netbeans</a>
 ![netbeans](http://gilbarbara.github.io/logos/netbeans.svg)
 
-## <a href="" target="_blank">New Relic</a>
+## <a href="http://newrelic.com/" target="_blank">New Relic</a>
 ![new-relic](http://gilbarbara.github.io/logos/new-relic.svg)
 
 ## <a href="https://www.nginx.com/" target="_blank">NGINX</a>
@@ -424,6 +436,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://nuclide.io/" target="_blank">Nuclide</a>
 ![nuclide](http://gilbarbara.github.io/logos/nuclide.svg)
+
+## <a href="http://nwjs.io/" target="_blank">NW.js a.k.a. Nodewebkit</a>
+![nwjs](http://gilbarbara.github.io/logos/nodewebkit.svg)
 
 ## <a href="http://oauth.net/" target="_blank">OAuth</a>
 ![oauth](http://gilbarbara.github.io/logos/oauth.svg)
@@ -456,6 +471,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a>
 ![postgresql](http://gilbarbara.github.io/logos/postgresql.svg)
+
+## <a href="" target="_blank">PouchDB</a>
+![pouchdb](http://gilbarbara.github.io/logos/pouchdb.svg)
 
 ## <a href="https://puppetlabs.com/" target="_blank">Puppet</a>
 ![puppet](http://gilbarbara.github.io/logos/puppet.svg)
@@ -502,8 +520,11 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.scala-lang.org/" target="_blank">Scala</a>
 ![scala](http://gilbarbara.github.io/logos/scala.svg)
 
-## <a href="" target="_blank">Segment</a>
+## <a href="https://segment.com/" target="_blank">Segment</a>
 ![segment](http://gilbarbara.github.io/logos/segment.svg)
+
+## <a href="https://getsentry.com/welcome/" target="_blank">Sentry</a>
+![sentry](http://gilbarbara.github.io/logos/sentry.svg)
 
 ## <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a>
 ![sinatra](http://gilbarbara.github.io/logos/sinatra.svg)
@@ -514,7 +535,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://socket.io/" target="_blank">Socket.io</a>
 ![socket.io](http://gilbarbara.github.io/logos/socket.io.svg)
 
-## <a href="" target="_blank">Spring</a>
+## <a href="https://spring.io/" target="_blank">Spring</a>
 ![spring](http://gilbarbara.github.io/logos/spring.svg)
 
 ## <a href="http://stackoverflow.com/" target="_blank">Stack Overflow</a>
@@ -523,7 +544,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.atlassian.com/software/stash" target="_blank">Stash</a>
 ![stash](http://gilbarbara.github.io/logos/stash.svg)
 
-## <a href="" target="_blank">Struts</a>
+## <a href="https://struts.apache.org/" target="_blank">Struts</a>
 ![struts](http://gilbarbara.github.io/logos/struts.svg)
 
 ## <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>
@@ -535,8 +556,11 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://developer.apple.com/swift/" target="_blank">Swift</a>
 ![swift](http://gilbarbara.github.io/logos/swift.svg)
 
-## <a href="" target="_blank">Symfony</a>
+## <a href="https://symfony.com/" target="_blank">Symfony</a>
 ![symfony](http://gilbarbara.github.io/logos/symfony.svg)
+
+## <a href="https://taiga.io/" target="_blank">Taiga</a>
+![taiga](http://gilbarbara.github.io/logos/taiga.svg)
 
 ## <a href="http://traackr.com/" target="_blank">Traackr</a>
 ![traackr](http://gilbarbara.github.io/logos/traackr.svg)
@@ -546,7 +570,10 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![travis-ci](http://gilbarbara.github.io/logos/travis-ci.svg)
 
-## <a href="" target="_blank">Vaadin</a>
+## <a href="https://unity3d.com/" target="_blank">Unity</a>
+![unity](http://gilbarbara.github.io/logos/unity.svg)
+
+## <a href="https://vaadin.com/" target="_blank">Vaadin</a>
 ![vaadin](http://gilbarbara.github.io/logos/vaadin.svg)
 
 ## <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a>
@@ -555,7 +582,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.visualstudio.com/" target="_blank">Visual Studio</a>
 ![visual-studio](http://gilbarbara.github.io/logos/visual-studio.svg)
 
-## <a href="" target="_blank">Visual Website Optimizer</a>
+## <a href="https://vwo.com/" target="_blank">Visual Website Optimizer</a>
 ![visual_website_optimizer](http://gilbarbara.github.io/logos/visual_website_optimizer.svg)
 
 ## <a href="http://vuejs.org/" target="_blank">Vue.js</a>
@@ -572,6 +599,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://wercker.com/" target="_blank">Wercker</a>
 ![wercker](http://gilbarbara.github.io/logos/wercker.svg)
+
+## <a href="https://wicket.apache.org/" target="_blank">Wicket</a>
+![wicket](http://gilbarbara.github.io/logos/wicket.svg)
 
 ## <a href="https://wordpress.org/" target="_blank">Wordpress</a>
 ![wordpress](http://gilbarbara.github.io/logos/wordpress-icon.svg)
